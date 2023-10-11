@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jules Besse - Curriculum Vitae</title>
+    <style>
+        
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .cv-container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="cv-container">
+        <h1>Jules Besse1</h1>
+        <p>Autosport Car Developer</p>
+        <img src="maxresdefault.jpg" alt="Italian Trulli">
+        <div class="section">
+            <h2>Contact Information</h2>
+            <ul>
+                <li>Email: jules.bes@gmail.com</li>
+                <li>Phone: (+44) 7963548923</li>
+                <li>Location: London, UK</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <p><strong>Bachelor of Science in Computer Science and Mechanical Engineering</strong></p>
+                    <p>University: Imperial College London</p>
+                    <p>Graduated: May 2002</p>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Work Experience</h2>
+            <ul>
+                <li>
+                    <p><strong>Autosport car Developer</strong></p>
+                    <p>Mercedes-Benz AMG Pertonas Formula 1 Team</p>
+                    <p>Brackley, UK</p>
+                    <p>July 2015 - Present</p>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5, C++, Very good understanding in thermodynamics and laws of physics</li>
+                <li>JavaScript</li>
+                <li>Great Communication skills</li>
+                <li>Hard team worker</li>
+                <li>Very organised and always ready for anything</li>
+            </ul>
+        </div>
+        
+    </div>
+</body>
+</html>
